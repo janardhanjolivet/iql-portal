@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/iql-portal (2).html" }
+  ]
+}
